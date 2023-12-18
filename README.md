@@ -6,7 +6,7 @@
 
 ## Preview:
 
-<img src="https://i.ibb.co/rvJVXk3/Preview.png" alt="image" width="auto" height="auto">
+<img src="https://i.ibb.co/Mgg5hRB/Screenshot-from-2023-12-18-11-51-06.png" alt="image" width="auto" height="auto">
 
 ## Help + Features
 
@@ -35,6 +35,13 @@ https://www.figma.com/file/eOFwdFuoWnJEof8XabGER9/Windows-7-UI-Community-Toolkit
 
 * 0.1
     * Initial Release
+* 1.0
+    * Modfied Bottom Bar
+        * Added a dropdown for the document selector
+        * Added a page number indicator + textbox
+        * Added a dropdown for the view settings - 100% by default
+    * Modified Right Tools Bar
+        * Added a search tool at the bottom
 
 ## Authors
 
